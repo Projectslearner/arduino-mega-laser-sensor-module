@@ -1,4 +1,4 @@
-# VL53L0X Laser Distance Sensor with Arduino Mega
+#  Laser Distance Sensor with Arduino Mega
 
 #### Project Overview
 
@@ -9,6 +9,8 @@ This project demonstrates how to interface a VL53L0X laser distance sensor with 
 - **Arduino Mega**
 - **VL53L0X Laser Distance Sensor**
 - **Jumper Wires**
+
+### Block Diagram
 
 #### Circuit Setup
 
